@@ -1,0 +1,22 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "username": "Ayisha kabeer",
+      "email": "ayishakabeer77@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "username": "jomol",
+      "email": "rajasreepc@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "3",
+      "username": "Gouri",
+      "email": "helvin4u@gmail.com",
+      "status": "Inactive"
+    }
+  ]
+}
